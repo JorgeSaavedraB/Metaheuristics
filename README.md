@@ -5,7 +5,8 @@ This repository constains implementations of various metaheuristic algorithms, i
 - Random Mutation Hill Climbing (RMHC)
 - Simulated Annealing (SA)
 - Evolution Algorithms (EA)
-
+  - Genetic Algoritms (GA)  
+  - Mexican Axolotl Optimization (MAO)
 These algorithms are applied to the following problems:
 
 - Travelling Salesman Problem (TSP)
