@@ -6,7 +6,8 @@ This repository constains implementations of various metaheuristic algorithms, i
 - Simulated Annealing (SA)
 - Evolution Algorithms (EA)
   - Genetic Algoritms (GA)  
-  - Mexican Axolotl Optimization (MAO)
+  - Mexican Axolotl Optimization (MAO) (https://www.mdpi.com/2227-7390/9/7/781)
+
 These algorithms are applied to the following problems:
 
 - Travelling Salesman Problem (TSP)
